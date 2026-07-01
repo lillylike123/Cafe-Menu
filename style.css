@@ -1,0 +1,23 @@
+body  {
+    font: "Times New Roman", Times, serif;
+    margin-left: 10px;
+    padding: 0;
+    background-color: #ffffff;
+    font-size: 25px;
+    color: #2c1609;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    border: 2px solid #000000;
+}
+
+nav {
+   color:#3f2606;
+    background-color: #ffedcb;
+    height: 50px;
+    margin-top: 0;
+    text-align: center;
+}
